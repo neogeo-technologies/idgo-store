@@ -32,7 +32,7 @@ setup(
     description='IDGO App Store',
     author='Neogeo Technologies',
     author_email='contact@neogeo.fr',
-    url='https://gitlab.neogeo.fr/neogeo-technologies/idgo-store',
+    url='https://git.neogeo.fr/idgo/apps/idgo-store',
     license='Apache License, Version 2.0',
     classifiers=[
         'License :: OSI Approved :: Apache Software License',
@@ -47,4 +47,4 @@ setup(
     ],
     packages=find_packages(where='.'),
     install_requires=reqs,
-    )
+)
